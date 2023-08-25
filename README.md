@@ -1,6 +1,6 @@
 # Project-4-Shiny-Application
 
-I this project first will create a Shiny application and deploy it on Rstudio's servers. Second, I will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+In this project first create a Shiny application and deploy it on Rstudio's servers. Second, use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 # Instructions 
 
